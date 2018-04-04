@@ -15,6 +15,7 @@ footnote : "Banten Development Presentasi Online"
 remote-control: true
 slide-number : true
 background : /assets/image/wallpaper.jpg
+padding-top: 20px
 background-size: cover
 remote-control: true
 slide-number : true
